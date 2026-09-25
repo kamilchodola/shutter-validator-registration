@@ -15,6 +15,7 @@
     "@chainsafe/blst": "^1.0.1",
     "@truffle/hdwallet-provider": "^2.1.15",
     "json-rpc-2.0": "^1.7.0",
+    "minimist": "^1.2.8",
     "web3": "^4.7.0"
   }
 }
